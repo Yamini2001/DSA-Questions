@@ -5,6 +5,12 @@ class Node{
         this.data = data;
         this.next = null;
     }
+    static Node insertFirst(Node head,int data){
+        Node newNode = new Node(data);
+        newNode.next = head;
+        return newNode;
+
+    }
     static Node deleteK(Node head, int k) {
         // Check if the list is empty
         if (head == null)
@@ -57,6 +63,7 @@ class Node{
         head.next.next = new Node(arr[2]);
         head.next.next.next = new Node(arr[3]);
         head.next.next.next.next = new Node(arr[4]);
+        head = insertFirst(head,8);
         // Delete the k-th node in the linked list
         head = deleteK(head,k);
 
