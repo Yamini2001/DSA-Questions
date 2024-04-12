@@ -26,6 +26,10 @@ Feel free to explore the solutions, study the implementations, and use them as a
 12. **Sqrt.java**: Find the square root of a given non-negative integer.
 13. **Word_Search.java**: Implement the word search algorithm.
 14. **Chocolate_Distribution.java**: Implement the chocolate distribution problem which is based on Kadane's algorithm.
+15. **LevelOrderTraversal.java**: Implement the chocolate distribution problem which is based on Binary Tree.
+16. **DeleteMiddleElementofLinkedList.java**: Implement the delete the middle of the element on the LinkedList problem which is based on the Hare and Tortoise algorithm.
+17. **FindMissingNumber.java**: Implement the Missing Number problem which is based on the xor operation.
+18.  **SumDependencyGraph.java**: Implement the sum dependencies problem which is based on the directed and connected graphs.
 
 ## Contributing:
 
