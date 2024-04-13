@@ -30,6 +30,8 @@ Feel free to explore the solutions, study the implementations, and use them as a
 16. **DeleteMiddleElementofLinkedList.java**: Implement the delete the middle of the element on the LinkedList problem which is based on the Hare and Tortoise algorithm.
 17. **FindMissingNumber.java**: Implement the Missing Number problem which is based on the xor operation.
 18.  **SumDependencyGraph.java**: Implement the sum dependencies problem which is based on the directed and connected graphs.
+19.   **StockBuyAndSell.java**: Implement the stock buy and sell problem which is based on the array.
+    
 
 ## Contributing:
 
