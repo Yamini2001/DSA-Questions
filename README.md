@@ -32,6 +32,8 @@ Feel free to explore the solutions, study the implementations, and use them as a
 18.  **SumDependencyGraph.java**: Implement the sum dependencies problem which is based on the directed and connected graphs.
 19.   **StockBuyAndSell.java**: Implement the stock buy and sell problem which is based on the array.
 20.   **DetectCycleUndirectedGraph.java**: Implement the detect cycle undirected graph problem which is based undirected graph.
+21.   **SearchElementAndRotatedArray.java**: Implement the search element and rotated array problem which is based on the array.
+    
     
 
 ## Contributing:
