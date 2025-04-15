@@ -25,15 +25,16 @@ Feel free to explore the solutions, study the implementations, and use them as a
 11. **SmallestMissingInteger.java**: Find the smallest positive integer missing from an unsorted array.
 12. **Sqrt.java**: Find the square root of a given non-negative integer.
 13. **Word_Search.java**: Implement the word search algorithm.
-14. **Chocolate_Distribution.java**: Implement the chocolate distribution problem which is based on Kadane's algorithm.
-15. **LevelOrderTraversal.java**: Implement the chocolate distribution problem which is based on Binary Tree.
-16. **DeleteMiddleElementofLinkedList.java**: Implement the delete the middle of the element on the LinkedList problem which is based on the Hare and Tortoise algorithm.
-17. **FindMissingNumber.java**: Implement the Missing Number problem which is based on the xor operation.
-18.  **SumDependencyGraph.java**: Implement the sum dependencies problem which is based on the directed and connected graphs.
-19.   **StockBuyAndSell.java**: Implement the stock buy and sell problem which is based on the array.
-20.   **DetectCycleUndirectedGraph.java**: Implement the detect cycle undirected graph problem which is based undirected graph.
-21.   **SearchElementAndRotatedArray.java**: Implement the search element and rotated array problem which is based on the array.
-22.   **Knapsack.java**: Implement the 0/1 Knapsack problem which is based on dynamic programming.
+14. **Chocolate_Distribution.java**: Implement the chocolate distribution problem, which is based on Kadane's algorithm.
+15. **LevelOrderTraversal.java**: Implement the chocolate distribution problem, which is based on a Binary Tree.
+16. **DeleteMiddleElementofLinkedList.java**: Implement the delete the middle of the element on the LinkedList problem, which is based on the Hare and Tortoise algorithm.
+17. **FindMissingNumber.java**: Implement the Missing Number problem, which is based on the xor operation.
+18.  **SumDependencyGraph.java**: Implement the sum dependencies problem, which is based on the directed and connected graphs.
+19.   **StockBuyAndSell.java**: Implement the stock buy and sell problem, which is based on the array.
+20.   **DetectCycleUndirectedGraph.java**: Implement the detect cycle undirected graph problem, which is based on an undirected graph.
+21.   **SearchElementAndRotatedArray.java**: Implement the search element and rotated array problem, which is based on the array.
+22.   **Knapsack.java**: Implement the 0/1 Knapsack problem, which is based on dynamic programming.
+23.   **Combinations.java**: Implement the combination that returns all possible combinations of k.
     
     
 
