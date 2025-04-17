@@ -36,7 +36,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 22.   **Knapsack.java**: Implement the 0/1 Knapsack problem, which is based on dynamic programming.
 23.   **Combinations.java**: Implement the combination that returns all possible combinations of k.
 24.   **CloneGraph.java**: Implement a given reference of a node in a connected undirected graph.
-25.   **MinStack**: Implement a stack that supports push, pop, top, and retrieving the minimum element in constant time.
+25.   **MinStack.java**: Implement a stack that supports push, pop, top, and retrieving the minimum element in constant time.
     
     
 
