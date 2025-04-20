@@ -39,6 +39,8 @@ Feel free to explore the solutions, study the implementations, and use them as a
 25.   **MinStack.java**: Implement a stack that supports push, pop, top, and retrieving the minimum element in constant time.
 26.   **CountAndSay.java**: Implement the count and say sequence of digit strings defined by the recursion formula.
 27.   **CountFairPairs.java**: Implement a given 0-indexed integer array of size n and two integers return the number of fair pairs.
+28.   **RabbitsInForest.java**: Implement a given  array of answers, return the minimum number of rabbits that could be in the forest.
+
     
     
 
