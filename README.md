@@ -41,6 +41,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 27.   **CountFairPairs.java**: Implement a given 0-indexed integer array of size n and two integers, and return the number of fair pairs.
 28.   **RabbitsInForest.java**: Implement a given  array of answers, return the minimum number of rabbits that could be in the forest.
 29.   **CountHiddenSequence.java**: Implement the number of possible hidden sequences.
+30.   **CountIdealArray.java**: Implement the number of distinct ideal arrays of length n.
 
     
     
