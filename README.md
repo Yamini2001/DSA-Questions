@@ -42,6 +42,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 28.   **RabbitsInForest.java**: Implement a given  array of answers, return the minimum number of rabbits that could be in the forest.
 29.   **CountHiddenSequence.java**: Implement the number of possible hidden sequences.
 30.   **CountIdealArray.java**: Implement the number of distinct ideal arrays of length n.
+31.   **CountLargestGroup.java**: Implement the number of groups that have the largest size.
 
     
     
