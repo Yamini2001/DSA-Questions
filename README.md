@@ -43,6 +43,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 29.   **CountHiddenSequence.java**: Implement the number of possible hidden sequences.
 30.   **CountIdealArray.java**: Implement the number of distinct ideal arrays of length n.
 31.   **CountLargestGroup.java**: Implement the number of groups that have the largest size.
+32.   **CountCompleteSubArray.java**: Implement the subarray as a contiguous, non-empty part of an array.
 
     
     
