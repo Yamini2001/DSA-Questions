@@ -46,6 +46,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 32.   **CountCompleteSubArray.java**: Implement the subarray as a contiguous, non-empty part of an array.
 33.   **CountInterestingSubArray.java**: Implement a method that returns an integer denoting the count of interesting subarrays.
 34.   **ReorderList.java**: Implement  the given head of a singly linked list.
+35.   **WordBreak.java**: The same word in the dictionary may be reused multiple times in the segmentation.
 
     
     
