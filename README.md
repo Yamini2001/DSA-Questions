@@ -47,6 +47,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 33.   **CountInterestingSubArray.java**: Implement a method that returns an integer denoting the count of interesting subarrays.
 34.   **ReorderList.java**: Implement  the given head of a singly linked list.
 35.   **WordBreak.java**: The same word in the dictionary may be reused multiple times in the segmentation.
+36.   **LRUCache.java**: Design a data structure that follows the constraints of a Least Recently Used (LRU) cache.
 
     
     
