@@ -49,6 +49,9 @@ Feel free to explore the solutions, study the implementations, and use them as a
 35.   **WordBreak.java**: The same word in the dictionary may be reused multiple times in the segmentation.
 36.   **LRUCache.java**: Design a data structure that follows the constraints of a Least Recently Used (LRU) cache.
 37.   **InsertionSortList.java**: Given the head of a singly linked list, sort the list using insertion sort, and return the sorted list's head.
+38.   **ValidNumber.java**: Given a string s, return whether s is a valid number.
+39.   **CompareVersionNumber.java**: To compare version strings, compare their revision values in left-to-right order. If one of the version strings has fewer revisions, treat the missing revision values as 0.
+
 
 The steps of the insertion sort algorithm:
 
