@@ -52,6 +52,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 38.   **ValidNumber.java**: Given a string s, return whether s is a valid number.
 39.   **CompareVersionNumber.java**: To compare version strings, compare their revision values in left-to-right order. If one of the version strings has fewer revisions, treat the missing revision values as 0.
 40.   **PushDominoes.java**: We will consider that a falling domino expends no additional force to a falling or already fallen domino.
+41.   **SimplifyPath.java**: The task is to transform this absolute path into its simplified canonical path.
 
 
 The steps of the insertion sort algorithm:
