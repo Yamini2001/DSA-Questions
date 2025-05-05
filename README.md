@@ -54,6 +54,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 40.   **PushDominoes.java**: We will consider that a falling domino expends no additional force to a falling or already fallen domino.
 41.   **SimplifyPath.java**: The task is to transform this absolute path into its simplified canonical path.
 42.   **NoEquivalentPizza.java**: Return the number of pairs (i, j) for which 0 <= i < j < dominoes.length, and dominoes[i] is equivalent to dominoes[j].
+43.   **TextJustification.java**: Given an array of strings words and a width maxWidth, format the text such that each line has exactly maxWidth characters and is fully (left and right) justified.
 
 
 The steps of the insertion sort algorithm:
