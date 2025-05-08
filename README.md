@@ -57,6 +57,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 43.   **TextJustification.java**: Given an array of strings words and a width maxWidth, format the text such that each line has exactly maxWidth characters and is fully (left and right) justified.
 44.   **BuildArray.java**: Given a zero-based permutation nums (0-indexed), build an array ans of the same length where ans[i] = nums[nums[i]] for each 0 <= i < nums.length and return it.
 45.   **MinimumTime.java**: Return the minimum time to reach the room (n - 1, m - 1).
+46.   **MergeKSortedList.java**: Merge all the linked-lists into one sorted linked-list and return it.
 
 
 The steps of the insertion sort algorithm:
