@@ -59,6 +59,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 45.   **MinimumTime.java**: Return the minimum time to reach the room (n-1, m - 1).
 46.   **MergeKSortedList.java**: Merge all the linked-lists into one sorted linked-list and return it.
 47.   **RemoveElement.java**: Return the number of elements in nums that are not equal to val.
+48.   **PlusOne.java**: Increment the large integer by one and return the resulting array of digits.
 
 
 The steps of the insertion sort algorithm:
