@@ -61,6 +61,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 47.   **RemoveElement.java**: Return the number of elements in nums that are not equal to val.
 48.   **PlusOne.java**: Increment the large integer by one and return the resulting array of digits.
 49.   **3ConsecutiveOdds.java**: Given an integer array arr, return true if there are three consecutive odd numbers in the array. Otherwise, return false.
+50.   **3DigitEvenNo.java**: Given an integer array digits, where each element is a digit. The array may contain duplicates.
  
 
 
