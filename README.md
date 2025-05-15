@@ -64,6 +64,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 50.   **3DigitEvenNo.java**: Given an integer array digits, where each element is a digit. The array may contain duplicates.
 51.   **SwapNodePairs.java**: We must solve the problem without modifying the values in the list's nodes.
 52.   **LongestValidParenthesis.java**: Given a string containing just the characters '(' and ')', return the length of the longest valid (well-formed) parentheses substring.
+53.   **2Sum.java**: Given an array of integers nums and an integer target, return the indices of the two numbers such that they add up to target.
 
  
 
