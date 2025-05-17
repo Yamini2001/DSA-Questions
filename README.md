@@ -65,6 +65,8 @@ Feel free to explore the solutions, study the implementations, and use them as a
 51.   **SwapNodePairs.java**: We must solve the problem without modifying the values in the list's nodes.
 52.   **LongestValidParenthesis.java**: Given a string containing just the characters '(' and ')', return the length of the longest valid (well-formed) parentheses substring.
 53.   **2Sum.java**: Given an array of integers nums and an integer target, return the indices of the two numbers such that they add up to target.
+54.   **ZigZagConversion.java**: code that will take a string and make this conversion given a number of rows.
+55.   **SortColors.java**: Solve this problem without using the library's sort function.
 
  
 
