@@ -67,6 +67,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 53.   **2Sum.java**: Given an array of integers nums and an integer target, return the indices of the two numbers such that they add up to target.
 54.   **ZigZagConversion.java**: code that will take a string and make this conversion given a number of rows.
 55.   **SortColors.java**: Solve this problem without using the library's sort function.
+56.   **Permutations.java**: Given an array nums of distinct integers, return all the possible permutations. You can return the answer in any order.
 
  
 
