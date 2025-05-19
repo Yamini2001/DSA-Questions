@@ -68,6 +68,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 54.   **ZigZagConversion.java**: code that will take a string and make this conversion given a number of rows.
 55.   **SortColors.java**: Solve this problem without using the library's sort function.
 56.   **Permutations.java**: Given an array nums of distinct integers, return all the possible permutations. You can return the answer in any order.
+57.   **TypeOfTriangle.java**: Return a string representing the type of triangle that can be formed or "none" if it cannot form a triangle.
 
  
 
