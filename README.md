@@ -27,7 +27,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 13. **Word_Search.java**: Implement the word search algorithm.
 14. **Chocolate_Distribution.java**: Implement the chocolate distribution problem, which is based on Kadane's algorithm.
 15. **LevelOrderTraversal.java**: Implement the chocolate distribution problem, which is based on a Binary Tree.
-16. **DeleteMiddleElementofLinkedList.java**: Implement the delete the middle of the element on the LinkedList problem, which is based on the Hare and Tortoise algorithm.
+16. **DeleteMiddleElementofLinkedList.java**: Implement the delete the middle of element on the LinkedList problem, which is based on the Hare and Tortoise algorithm.
 17. **FindMissingNumber.java**: Implement the Missing Number problem, which is based on the xor operation.
 18.  **SumDependencyGraph.java**: Implement the sum dependencies problem, which is based on the directed and connected graphs.
 19.   **StockBuyAndSell.java**: Implement the stock buy and sell problem, which is based on the array.
@@ -69,6 +69,9 @@ Feel free to explore the solutions, study the implementations, and use them as a
 55.   **SortColors.java**: Solve this problem without using the library's sort function.
 56.   **Permutations.java**: Given an array nums of distinct integers, return all the possible permutations. You can return the answer in any order.
 57.   **TypeOfTriangle.java**: Return a string representing the type of triangle that can be formed or "none" if it cannot form a triangle.
+58.   **ZeroArrayTransformation.java: eturn true if it is possible to transform nums into a Zero Array after processing all the queries sequentially, otherwise return false.
+
+ 
 
  
 
