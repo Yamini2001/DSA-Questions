@@ -69,7 +69,8 @@ Feel free to explore the solutions, study the implementations, and use them as a
 55.   **SortColors.java**: Solve this problem without using the library's sort function.
 56.   **Permutations.java**: Given an array nums of distinct integers, return all the possible permutations. You can return the answer in any order.
 57.   **TypeOfTriangle.java**: Return a string representing the type of triangle that can be formed or "none" if it cannot form a triangle.
-58.   **ZeroArrayTransformation.java: eturn true if it is possible to transform nums into a Zero Array after processing all the queries sequentially, otherwise return false.
+58.   **ZeroArrayTransformation.java: Return true if it is possible to transform nums into a Zero Array after processing all the queries sequentially, otherwise return false.
+59.   **SetMatrixZero.java**: Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's.
 
  
 
