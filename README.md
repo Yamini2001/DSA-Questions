@@ -71,7 +71,8 @@ Feel free to explore the solutions, study the implementations, and use them as a
 57.   **TypeOfTriangle.java**: Return a string representing the type of triangle that can be formed or "none" if it cannot form a triangle.
 58.   **ZeroArrayTransformation.java: Return true if it is possible to transform nums into a Zero Array after processing all the queries sequentially, otherwise return false.
 59.   **SetMatrixZero.java**: Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's.
-60.   **ZeroArrayTransform.java**: given an integer array nums of length n and a 2D array queries where queries[i] = [li, ri].
+60.   **ZeroArrayTransform.java**: given an integer array nums of length n and a 2D array queries where queries[i] = [li, ri]
+61.   **MaxSumNodValue.java**: Return the maximum possible sum of the values Alice can achieve by performing the operation any number of times.
 
  
 
