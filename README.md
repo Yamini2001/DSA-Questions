@@ -73,6 +73,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 59.   **SetMatrixZero.java**: Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's.
 60.   **ZeroArrayTransform.java**: given an integer array nums of length n and a 2D array queries where queries[i] = [li, ri]
 61.   **MaxSumNodValue.java**: Return the maximum possible sum of the values Alice can achieve by performing the operation any number of times.
+62.   **FindWordsContainCharacter.java**: Return an array of indices representing the words that contain the character x.
 
  
 
