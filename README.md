@@ -74,6 +74,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 60.   **ZeroArrayTransform.java**: given an integer array nums of length n and a 2D array queries where queries[i] = [li, ri]
 61.   **MaxSumNodValue.java**: Return the maximum possible sum of the values Alice can achieve by performing the operation any number of times.
 62.   **FindWordsContainCharacter.java**: Return an array of indices representing the words that contain the character x.
+63.   **LongestPlaindrome.java**: Return the length of the longest palindrome that you can create. If it is impossible to create any palindrome, return 0.
 
  
 
