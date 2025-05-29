@@ -77,6 +77,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 63.   **LongestPalindrome.java**: Return the length of the longest palindrome that you can create. If it is impossible to create any palindrome, return 0.
 64.   **LargestColorValue.java**: Return the largest colour value of any valid path in the given graph, or -1 if the graph contains a cycle.
 65.   **ContainerWithWater.java**: Return the maximum amount of water a container can store.
+66.   **NextPermutation.java**: A permutation of an array of integers is an arrangement of its members into a sequence or linear order.
 
  
 
