@@ -78,6 +78,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 64.   **LargestColorValue.java**: Return the largest colour value of any valid path in the given graph, or -1 if the graph contains a cycle.
 65.   **ContainerWithWater.java**: Return the maximum amount of water a container can store.
 66.   **NextPermutation.java**: A permutation of an array of integers is an arrangement of its members into a sequence or linear order.
+67.   **3Sum.java**: Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
 
  
 
