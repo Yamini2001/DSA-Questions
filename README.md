@@ -79,6 +79,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 65.   **ContainerWithWater.java**: Return the maximum amount of water a container can store.
 66.   **NextPermutation.java**: A permutation of an array of integers is an arrangement of its members into a sequence or linear order.
 67.   **3Sum.java**: Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
+68.   **FindClosestNode.java**: Given a directed graph of n nodes numbered from 0 to n - 1, where each node has at most one outgoing edge.
 
  
 
