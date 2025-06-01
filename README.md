@@ -81,6 +81,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 67.   **3Sum.java**: Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
 68.   **FindClosestNode.java**: Given a directed graph of n nodes numbered from 0 to n - 1, where each node has at most one outgoing edge.
 69.   **SnakeAndLadder.java**:  given an n x n integer matrix board where the cells are labelled from 1 to n2 in a Boustrophedon style starting from the bottom left of the board (i.e. board[n - 1][0]) and alternating direction each row.
+70.   **DistributeCandies.java**: Return the total number of ways to distribute n candies among 3 children such that no child gets more than limit candies.
 
  
 
