@@ -85,6 +85,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 71.   **RunningSum.java**: Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
 72.   **MaximumCandies.java**: Given an integer array initialBoxes that contains the labels of the boxes we initially have. We can take all the candies in any open box, and we can use the keys in it to open new boxes, and we can also use the boxes we find in it.
 73.   **SlidingWindowMax.java**: given an array of integers nums, there is a sliding window of size k which is moving from the very left of the array to the very right. You can only see the k numbers in the window. Each time the sliding window moves right by one position.
+74.   **LexographicSmallString.java**: given two strings of the same length s1 and s2 and a string baseStr.
 
  
 
