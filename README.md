@@ -87,6 +87,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 73.   **SlidingWindowMax.java**: given an array of integers nums, there is a sliding window of size k which is moving from the very left of the array to the very right. You can only see the k numbers in the window. Each time the sliding window moves right by one position.
 74.   **LexographicSmallString.java**: given two strings of the same length s1 and s2 and a string baseStr.
 75.   **Permutations2.java**: Given a collection of numbers, nums, that might contain duplicates, return all possible unique permutations in any order.
+76.   **SwapNode.java**: Given a linked list, swap every two adjacent nodes and return its head. You must solve the problem without modifying the values in the list's nodes (i.e., only nodes themselves may be changed.)
 
  
 
