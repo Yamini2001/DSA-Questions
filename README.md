@@ -88,6 +88,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 74.   **LexographicSmallString.java**: given two strings of the same length s1 and s2 and a string baseStr.
 75.   **Permutations2.java**: Given a collection of numbers, nums, that might contain duplicates, return all possible unique permutations in any order.
 76.   **SwapNode.java**: Given a linked list, swap every two adjacent nodes and return its head. You must solve the problem without modifying the values in the list's nodes (i.e., only nodes themselves may be changed.)
+77.   **LexographicNumber.java**: Given an integer n, return all the numbers in the range [1, n] sorted in lexicographical order.
 
  
 
