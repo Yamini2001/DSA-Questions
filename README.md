@@ -90,7 +90,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 76.   **SwapNode.java**: Given a linked list, swap every two adjacent nodes and return its head. You must solve the problem without modifying the values in the list's nodes (i.e., only nodes themselves may be changed.)
 77.   **LexographicNumber.java**: Given an integer n, return all the numbers in the range [1, n] sorted in lexicographical order.
 78.   **KsmallLexographicOrder.java**: Given two integers n and k, return the kth lexicographically smallest integer in the range [1, n].
-79.   **MaxDiffEvenOdd.java**: Return this maximum difference.
+79.   **MaxDiffEvenOdd.java**: To find the maximum difference.
 
  
 
