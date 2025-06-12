@@ -91,6 +91,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 77.   **LexographicNumber.java**: Given an integer n, return all the numbers in the range [1, n] sorted in lexicographical order.
 78.   **KsmallLexographicOrder.java**: Given two integers n and k, return the kth lexicographically smallest integer in the range [1, n].
 79.   **MaxDiffEvenOdd.java**: To find the maximum difference.
+80.   **GenerateParenthesis**: Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
 
  
 
