@@ -92,6 +92,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 78.   **KsmallLexographicOrder.java**: Given two integers n and k, return the kth lexicographically smallest integer in the range [1, n].
 79.   **MaxDiffEvenOdd.java**: To find the maximum difference.
 80.   **GenerateParenthesis**: Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
+81.   **MaxDiffAdjCircularArray.java**: Given a circular array nums, find the maximum absolute difference between adjacent elements.
 
  
 
