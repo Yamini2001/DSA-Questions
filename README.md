@@ -97,13 +97,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 83.   **MaxDiffRemappingDigit.java**: Return the difference between the maximum and minimum values Bob can make by remapping exactly one digit in num.
 84.   **WildCardMatching.py**: The matching should cover the entire input string.
 85.   **MaxDiffIncreasingElement.java**: Return the maximum difference. If no such i and j exists, return -1.
-
- 
-
- 
-
- 
-
+86.   **TrappingRainWater.java**: Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
 
 The steps of the insertion sort algorithm:
 
