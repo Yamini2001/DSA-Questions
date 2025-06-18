@@ -98,8 +98,11 @@ Feel free to explore the solutions, study the implementations, and use them as a
 84.   **WildCardMatching.py**: The matching should cover the entire input string.
 85.   **MaxDiffIncreasingElement.java**: Return the maximum difference. If no such i and j exists, return -1.
 86.   **TrappingRainWater.java**: Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
+87.   **DivideArrayToMaxDiff.java**: Return a 2D array containing the arrays. If it is impossible to satisfy the conditions, return an empty array. And if there are multiple answers, return any of them.
 
-The steps of the insertion sort algorithm:
+ 
+
+
 
     
     
