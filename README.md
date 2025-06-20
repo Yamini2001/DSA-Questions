@@ -96,9 +96,11 @@ Feel free to explore the solutions, study the implementations, and use them as a
 82.   **MinMaxDiffPairs.java**: Return the minimum maximum difference among all p pairs. We define the maximum of an empty set to be zero.
 83.   **MaxDiffRemappingDigit.java**: Return the difference between the maximum and minimum values Bob can make by remapping exactly one digit in num.
 84.   **WildCardMatching.py**: The matching should cover the entire input string.
-85.   **MaxDiffIncreasingElement.java**: Return the maximum difference. If no such i and j exists, return -1.
+85.   **MaxDiffIncreasingElement.java**: Return the maximum difference. If no such i and j exist, return -1.
 86.   **TrappingRainWater.java**: Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
 87.   **DivideArrayToMaxDiff.java**: Return a 2D array containing the arrays. If it is impossible to satisfy the conditions, return an empty array. And if there are multiple answers, return any of them.
+88.   **PartitionArrayMaxDiffK.java**: Given an integer array nums and an integer k. You may partition nums into one or more subsequences such that each element in nums appears in exactly one of the subsequences.
+89.   **MaxManhattanDist.java**:  Find the maximum Manhattan distance from the origin that can be achieved at any time while performing the movements in order.
 
  
 
