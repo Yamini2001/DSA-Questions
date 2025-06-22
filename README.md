@@ -101,6 +101,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 87.   **DivideArrayToMaxDiff.java**: Return a 2D array containing the arrays. If it is impossible to satisfy the conditions, return an empty array. And if there are multiple answers, return any of them.
 88.   **PartitionArrayMaxDiffK.java**: Given an integer array nums and an integer k. You may partition nums into one or more subsequences such that each element in nums appears in exactly one of the subsequences.
 89.   **MaxManhattanDist.java**:  Find the maximum Manhattan distance from the origin that can be achieved at any time while performing the movements in order.
+90.   **MinDelToMakeStringKSpecial**: Return the minimum number of characters you need to delete to make word k-special.
 
  
 
