@@ -1,3 +1,4 @@
+
 # Java Algorithm Solutions
 
 Welcome to the Java Algorithm Solutions repository! Here, you'll find Java implementations of various algorithmic problems, each aimed at enhancing your understanding of data structures, algorithms, and problem-solving skills.
@@ -103,6 +104,8 @@ Feel free to explore the solutions, study the implementations, and use them as a
 89.   **MaxManhattanDist.java**:  Find the maximum Manhattan distance from the origin that can be achieved at any time while performing the movements in order.
 90.   **MinDelToMakeStringKSpecial**: Return the minimum number of characters you need to delete to make word k-special.
 91.   **DivideStringGroupKSize.java**: Given the string s, the size of each group k and the character fill, return a string array denoting the composition of every group s has been divided into, using the above procedure.
+92.   **SumKMirrorNumber.java**: Given the base k and the number n, return the sum of the n smallest k-mirror numbers.
+93.   **KDistantIndicesArray.java**: Return a list of all k-distant indices sorted in increasing order.
 
  
 
