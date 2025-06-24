@@ -105,6 +105,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 90.   **MinDelToMakeStringKSpecial**: Return the minimum number of characters you need to delete to make word k-special.
 91.   **DivideStringGroupKSize.java**: Given the string s, the size of each group k and the character fill, return a string array denoting the composition of every group s has been divided into, using the above procedure.
 92.   **SumKMirrorNumber.java**: Given the base k and the number n, return the sum of the n smallest k-mirror numbers.
+93.   **KDistantIndicesArray.java**: Return a list of all k-distant indices sorted in increasing order.
 
  
 
