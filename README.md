@@ -106,6 +106,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 91.   **DivideStringGroupKSize.java**: Given the string s, the size of each group k and the character fill, return a string array denoting the composition of every group s has been divided into, using the above procedure.
 92.   **SumKMirrorNumber.java**: Given the base k and the number n, return the sum of the n smallest k-mirror numbers.
 93.   **KDistantIndicesArray.java**: Return a list of all k-distant indices sorted in increasing order.
+94.   **KSmaalestSortedArray**: Given two sorted 0-indexed integer arrays nums1 and nums2 as well as an integer k, return the kth (1-based) smallest product of nums1[i] * nums2[j] where 0 <= i < nums1.length and 0 <= j < nums2.length.
 
  
 
