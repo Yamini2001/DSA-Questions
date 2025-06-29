@@ -109,6 +109,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 94.   **KSmaalestSortedArray**: Given two sorted 0-indexed integer arrays nums1 and nums2 as well as an integer k, return the kth (1-based) smallest product of nums1[i] * nums2[j] where 0 <= i < nums1.length and 0 <= j < nums2.length.
 95.   **LongestBinarySubsequence**: Return the length of the longest subsequence of s that makes up a binary number less than or equal to k.
 96.   **LongestSubsequenceRepeatKTimes.java**: Return the longest subsequence repeated k times in string s. If multiple such subsequences are found, return the lexicographically largest one. If there is no such subsequence, return an empty string.
+97.   **SubsequenceKWithLargestSum.java**: Return any such subsequence as an integer array of length k.
 
  
 
