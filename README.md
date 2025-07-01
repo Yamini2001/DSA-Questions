@@ -112,6 +112,9 @@ Feel free to explore the solutions, study the implementations, and use them as a
 97.   **SubsequenceKWithLargestSum.java**: Return any such subsequence as an integer array of length k.
 98.   **PalindromeNumber.java**: Given an integer x, return true if x is a palindrome, and false otherwise.
 99.   **LongestHarmoniousSubsequence.java**: Given an integer array nums, return the length of its longest harmonious subsequence among all its possible subsequences.
+100.   **FindOriginalTypeString.java**: Return the total number of possible original strings that Alice might have intended to type.
+
+ 
 
  
 
