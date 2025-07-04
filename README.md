@@ -115,6 +115,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 100.   **FindOriginalTypeString.java**: Return the total number of possible original strings that Alice might have intended to type.
 101.   **3SumClosest.java**: Return the sum of the three integers.
 102.   **FindKthCharacterStringGame.java**: Return the value of the kth character in word, after enough operations have been done for word to have at least k characters.
+103.   **CountAndSay.java**: Given a positive integer n, return the nth element of the count-and-say sequence.
 
  
 
