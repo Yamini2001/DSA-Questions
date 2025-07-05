@@ -116,6 +116,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 101.   **3SumClosest.java**: Return the sum of the three integers.
 102.   **FindKthCharacterStringGame.java**: Return the value of the kth character in word, after enough operations have been done for word to have at least k characters.
 103.   **CountAndSay.java**: Given a positive integer n, return the nth element of the count-and-say sequence.
+104.   **LuckyIntegerArray**: Return the largest lucky integer in the array. If there is no lucky integer, return -1.
 
  
 
