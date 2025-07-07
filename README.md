@@ -118,6 +118,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 103.   **CountAndSay.java**: Given a positive integer n, return the nth element of the count-and-say sequence.
 104.   **LuckyIntegerArray**: Return the largest lucky integer in the array. If there is no lucky integer, return -1.
 105.   **FindingPairWithCertainSum.java**: Count the number of pairs (i, j) such that nums1[i] + nums2[j] equals a given value (0 <= i < nums1.length and 0 <= j < nums2.length).
+106.   **MaximumNoEvents.java**: Return the maximum number of events you can attend.
 
  
 
