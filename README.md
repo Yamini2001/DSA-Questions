@@ -123,6 +123,9 @@ Feel free to explore the solutions, study the implementations, and use them as a
 108.   **RescehduleMeetings.java**: Return the maximum amount of free time possible after rearranging the meetings.
 109.   **RegularExpressionMatching.java**: The matching should cover the entire input string (not partial).
 110.   **MeetingRooms.java**: Return the number of the room that held the most meetings. If there are multiple rooms, return the room with the lowest number.
+111.   **EarliestAndLatestRounds.java**: Given the integers n, firstPlayer, and secondPlayer, return an integer array containing two values, the earliest possible round number and the latest possible round number in which these two players will compete against each other, respectively.
+
+ 
 
  
 
