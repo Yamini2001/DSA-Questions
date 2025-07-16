@@ -126,7 +126,10 @@ Feel free to explore the solutions, study the implementations, and use them as a
 111.   **EarliestAndLatestRounds.java**: Given the integers n, firstPlayer, and secondPlayer, return an integer array containing two values, the earliest possible round number and the latest possible round number in which these two players will compete against each other, respectively.
 112.   **MaximumMatchingPlayers.java**: Return the maximum number of matchings between players and trainers that satisfy these conditions.
 113.   **ConvertBinaryNoLinkedList.java**: Return the decimal value of the number in the linked list.
-114.   **ValidWord.java**: Return true if word is valid, otherwise, return false.
+114.   **ValidWord.java**: Return true if the word is valid, otherwise, return false.
+115.   **MaximumLengthValidSubsequence.java**: A subsequence is an array that can be derived from another array by deleting some or no elements without changing the order of the remaining elements.
+
+
 
  
 
