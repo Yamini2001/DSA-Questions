@@ -130,6 +130,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 115.   **MaximumLengthValidSubsequence.java**: A subsequence is an array that can be derived from another array by deleting some or no elements without changing the order of the remaining elements.
 116.   **DivideTwoIntegers.java**: Return the quotient after dividing dividend by divisor.
 117.   **ReverseInteger.java**: Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0.
+118.   **RemoveSubFolders.java**: Given a list of folders folder, return the folders after removing all sub-folders in those folders. You may return the answer in any order.
 
 
 
