@@ -132,6 +132,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 117.   **ReverseInteger.java**: Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0.
 118.   **RemoveSubFolders.java**: Given a list of folders folder, return the folders after removing all sub-folders in those folders. You may return the answer in any order.
 119.   **DeleteDuplicateFolders**: Return the 2D array ans containing the paths of the remaining folders after deleting all the marked folders. The paths may be returned in any order.
+120.   **DeleteCharactersToFancyString.java**: Return the final string after the deletion. It can be shown that the answer will always be unique.
 
 
 
