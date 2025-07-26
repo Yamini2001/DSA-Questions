@@ -135,7 +135,8 @@ Feel free to explore the solutions, study the implementations, and use them as a
 120.   **DeleteCharactersToFancyString.java**: Return the final string after the deletion. It can be shown that the answer will always be unique.
 121.   **MaximumErasureValue.java**: Return the maximum score you can get by erasing exactly one subarray.
 122.   **MinimumScore.java**: Return the minimum score of any possible pair of edge removals on the given tree.
-123.  **MaximumUniqueSubArray.java**: Return the maximum sum of such a subarray.    
+123.  **MaximumUniqueSubArray.java**: Return the maximum sum of such a subarray.
+124.  **TwoSum.java**: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
 ## Contributing:
 
