@@ -137,6 +137,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 122.   **MinimumScore.java**: Return the minimum score of any possible pair of edge removals on the given tree.
 123.  **MaximumUniqueSubArray.java**: Return the maximum sum of such a subarray.
 124.  **TwoSum.java**: Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+125.  **CountAndValleys.java**: Return the number of hills and valleys in nums.
 
 ## Contributing:
 
