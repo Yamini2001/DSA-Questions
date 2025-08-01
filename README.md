@@ -142,6 +142,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 127.  **SmallestSubArray.java**: Return an integer array answer of size n where answer[i] is the length of the minimum sized subarray starting at i with maximum bitwise OR.
 128.  **LongestSubArray.java**: Return the length of the longest such subarray.
 129.  **BitwiseORSubArray.java**: A subarray is a contiguous non-empty sequence of elements within an array.
+130.  **PascalTriangle.java**: Given an integer numRows, return the first numRows of Pascal's triangle.
 
  
 
