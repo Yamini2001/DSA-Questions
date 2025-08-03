@@ -144,6 +144,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 129.  **BitwiseORSubArray.java**: A subarray is a contiguous non-empty sequence of elements within an array.
 130.  **PascalTriangle.java**: Given an integer numRows, return the first numRows of Pascal's triangle.
 131.  **RearrangingFruits.java**: Return the minimum cost to make both the baskets equal or -1 if impossible.
+132.  **ZigZagConversion.java**: The string "PAYPALISHIRING" is written in a zigzag pattern on a given number of rows
 
  
 
