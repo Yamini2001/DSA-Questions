@@ -147,6 +147,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 132.  **ZigZagConversion.java**: The string "PAYPALISHIRING" is written in a zigzag pattern on a given number of rows.
 133.  **FruitsIntoBaskets.java**: Given the integer array fruits, return the maximum number of fruits you can pick.
 134.  **FruitsInBaskets.java**: Return the number of fruit types that remain unplaced after all possible allocations are made.
+135.  **ReverseString.java**: Write a function that reverses a string. The input string is given as an array of characters s.
 
  
 
