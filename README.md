@@ -150,6 +150,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 135.  **ReverseString.java**: Write a function that reverses a string. The input string is given as an array of characters s.
 136.  **MaxNoFruitCollect.java**: Return the maximum number of fruits the children can collect from the dungeon.
 137.  **SoupServings.java**: Return the probability that A is used up before B, plus half the probability that both soups are used up in the same turn. Answers within 10-5 of the actual answer will be accepted.
+138.  **PowerOfTwo.java**: An integer n is a power of two, if there exists an integer x such that n == 2x.
 
  
 
