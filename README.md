@@ -154,6 +154,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 139.  **FibonacciNumber.java**: The Fibonacci numbers, commonly denoted F(n) form a sequence, called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from 0 and 1.
 140.  **PowerOfFour.java**: An integer n is a power of four, if there exists an integer x such that n == 4x.
 141.  **Maximum69Number.java**: Return the maximum number you can get by changing at most one digit (6 becomes 9, and 9 becomes 6).
+142.  **New21Gaame.java**: Return the probability that Alice has n or fewer points.
 
  
 
