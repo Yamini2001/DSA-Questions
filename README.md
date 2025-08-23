@@ -158,6 +158,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 143.  **24Game.java**: Return true if you can get such expression that evaluates to 24, and false otherwise.
 144.  **NoFilledWithZeroSubArray.java**: A subarray is a contiguous non-empty sequence of elements within an array.
 145.  **MinimumAreaToCover.java**: Return the minimum possible area of the rectangle.
+146.  **MinimumAreaToCoverAll.java**: Return the minimum possible sum of the area of these rectangles.
 
  
 
