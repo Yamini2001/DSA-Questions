@@ -160,6 +160,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 145.  **MinimumAreaToCover.java**: Return the minimum possible area of the rectangle.
 146.  **MinimumAreaToCoverAll.java**: Return the minimum possible sum of the area of these rectangles.
 147.  **LongestSubArrayOf1s.java**: Return the size of the longest non-empty subarray containing only 1's in the resulting array. Return 0 if there is no such subarray.
+148.  **DiagonalTraverse.java**: Given an m x n matrix mat, return an array of all the elements of the array in a diagonal order.
 
  
 
