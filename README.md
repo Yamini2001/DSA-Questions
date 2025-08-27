@@ -161,6 +161,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 146.  **MinimumAreaToCoverAll.java**: Return the minimum possible sum of the area of these rectangles.
 147.  **LongestSubArrayOf1s.java**: Return the size of the longest non-empty subarray containing only 1's in the resulting array. Return 0 if there is no such subarray.
 148.  **DiagonalTraverse.java**: Given an m x n matrix mat, return an array of all the elements of the array in a diagonal order.
+149.  **RemoveElement.java**: Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The order of the elements may be changed. Then return the number of elements in nums which are not equal to val.
 
  
 
