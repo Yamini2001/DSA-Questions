@@ -165,6 +165,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 150.  **LengthOfLongestVspaed.java**: Return the length of the longest V-shaped diagonal segment. If no valid segment exists, return 0.
 151.  **SortMatrixByDiagonal.java**: The diagonals with a black arrow must be non-increasing, so [0, 2] is changed to [2, 0]. The other diagonals are already in the correct order.
 152.  **AliceBobPlayingFlowerGame.java**: Return the number of possible pairs (x, y) that satisfy the conditions mentioned in the statement.
+153.  **ValidSudoku.java**: Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be validated according to the following rules:
 
  
 
