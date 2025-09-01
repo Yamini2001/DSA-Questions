@@ -167,6 +167,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 152.  **AliceBobPlayingFlowerGame.java**: Return the number of possible pairs (x, y) that satisfy the conditions mentioned in the statement.
 153.  **ValidSudoku.java**: Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be validated according to the following rules:
 154.  **SudokuSolver.java**: program to solve a Sudoku puzzle by filling the empty cells.
+155.  **MaximumAveragePassRatio.java**: Return the maximum possible average pass ratio after assigning the extraStudents students. Answers within 10-5 of the actual answer will be accepted.
 
  
 
