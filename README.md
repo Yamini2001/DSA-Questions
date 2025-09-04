@@ -169,6 +169,8 @@ Feel free to explore the solutions, study the implementations, and use them as a
 154.  **SudokuSolver.java**: program to solve a Sudoku puzzle by filling the empty cells.
 155.  **MaximumAveragePassRatio.java**: Return the maximum possible average pass ratio after assigning the extraStudents students. Answers within 10-5 of the actual answer will be accepted.
 156.  **NoWaysToPlacePeople.java**: given a 2D array points of size n x 2 representing integer coordinates of some points on a 2D plane, where points[i] = [xi, yi].
+157.  **FirstMissingPositive.java**: Return the smallest positive integer that is not present in nums.
+158.  *FindClosestPerson.java**: Both Person 1 and Person 2 move toward Person 3 at the same speed.
 
  
 
