@@ -171,6 +171,8 @@ Feel free to explore the solutions, study the implementations, and use them as a
 156.  **NoWaysToPlacePeople.java**: given a 2D array points of size n x 2 representing integer coordinates of some points on a 2D plane, where points[i] = [xi, yi].
 157.  **FirstMissingPositive.java**: Return the smallest positive integer that is not present in nums.
 158.  *FindClosestPerson.java**: Both Person 1 and Person 2 move toward Person 3 at the same speed.
+159.  **MinimumOperationsToMakeZero.java**: Return the integer denoting the minimum number of operations needed to make num1 equal to 0.
+160.  **MinimumOPerationsToMakeArrayZero.java**: determine the minimum number of operations required to reduce all elements of the array to zero for each query. Return the sum of the results for all queries.
 
  
 
