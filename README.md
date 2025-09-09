@@ -174,6 +174,9 @@ Feel free to explore the solutions, study the implementations, and use them as a
 159.  **MinimumOperationsToMakeZero.java**: Return the integer denoting the minimum number of operations needed to make num1 equal to 0.
 160.  **MinimumOPerationsToMakeArrayZero.java**: determine the minimum number of operations required to reduce all elements of the array to zero for each query. Return the sum of the results for all queries.
 161.  **NUniqueIntegerSum.java**: Given an integer n, return any array containing n unique integers such that they add up to 0.
+162.  **MergeIntervals.java**: return an array of the non-overlapping intervals that cover all the intervals in the input.
+
+ 
 
  
 
