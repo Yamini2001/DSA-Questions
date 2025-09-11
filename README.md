@@ -176,6 +176,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 161.  **NUniqueIntegerSum.java**: Given an integer n, return any array containing n unique integers such that they add up to 0.
 162.  **MergeIntervals.java**: return an array of the non-overlapping intervals that cover all the intervals in the input.
 163.  **NoOfPeopleAwareOfSecret.java**: Given an integer n, return the number of people who know the secret at the end of day n. Since the answer may be very large, return it modulo 109 + 7.
+164.  **MinimumNoOfPeopleTeach.java**: choose one language and teach it to some users so that all friends can communicate with each other. Return the minimum number of users we need to teach.
 
  
 
