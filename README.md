@@ -178,6 +178,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 163.  **NoOfPeopleAwareOfSecret.java**: Given an integer n, return the number of people who know the secret at the end of day n. Since the answer may be very large, return it modulo 109 + 7.
 164.  **MinimumNoOfPeopleTeach.java**: choose one language and teach it to some users so that all friends can communicate with each other. Return the minimum number of users we need to teach.
 165.  **SortVowelsInString.java**: The vowels are 'a', 'e', 'i', 'o', and 'u', and they can appear in lowercase or uppercase. Consonants comprise all letters that are not vowels.
+166.  **VowelsGameInString.java**: The first player who cannot make a move on their turn loses the game. We assume that both Alice and Bob play optimally.
 
  
 
