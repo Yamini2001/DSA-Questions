@@ -180,6 +180,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 165.  **SortVowelsInString.java**: The vowels are 'a', 'e', 'i', 'o', and 'u', and they can appear in lowercase or uppercase. Consonants comprise all letters that are not vowels.
 166.  **VowelsGameInString.java**: The first player who cannot make a move on their turn loses the game. We assume that both Alice and Bob play optimally.
 167.  **MostFrequentVowelAndConsonant.java**: The frequency of a letter x is the number of times it occurs in the string.
+168.  **VowelSpellChecker.java**: Given some queries, return a list of words answer, where answer[i] is the correct word for query = queries[i].
 
  
 
