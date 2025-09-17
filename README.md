@@ -182,6 +182,8 @@ Feel free to explore the solutions, study the implementations, and use them as a
 167.  **MostFrequentVowelAndConsonant.java**: The frequency of a letter x is the number of times it occurs in the string.
 168.  **VowelSpellChecker.java**: Given some queries, return a list of words, answer, where answer[i] is the correct word for query = queries[i].
 169.  **MaxNoWordsCanType.java**: There is a malfunctioning keyboard where some letter keys do not work. All other keys on the keyboard work properly.
+170.  **ReplaceNonCoPrimeNoArray.java**: Return the final modified array. It can be shown that replacing adjacent non-coprime numbers in any arbitrary order will lead to the same result.
+171.  **DesignFoodRatingSystem.java**: Return the highest-rated food item for a type of cuisine in the system.
 
  
 
