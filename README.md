@@ -185,6 +185,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 170.  **ReplaceNonCoPrimeNoArray.java**: Return the final modified array. It can be shown that replacing adjacent non-coprime numbers in any arbitrary order will lead to the same result.
 171.  **DesignFoodRatingSystem.java**: Return the highest-rated food item for a type of cuisine in the system.
 172.  **DesignTaskManager.java**: There is a task management system that allows users to manage their tasks, each associated with a priority. The system should efficiently handle adding, modifying, executing, and removing tasks.
+173.  **DesignSpreadSheet.java**: A spreadsheet is a grid with 26 columns (labeled from 'A' to 'Z') and a given number of rows. Each cell in the spreadsheet can hold an integer value between 0 and 105.
 
  
 
