@@ -186,6 +186,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 171.  **DesignFoodRatingSystem.java**: Return the highest-rated food item for a type of cuisine in the system.
 172.  **DesignTaskManager.java**: There is a task management system that allows users to manage their tasks, each associated with a priority. The system should efficiently handle adding, modifying, executing, and removing tasks.
 173.  **DesignSpreadSheet.java**: A spreadsheet is a grid with 26 columns (labeled from 'A' to 'Z') and a given number of rows. Each cell in the spreadsheet can hold an integer value between 0 and 105.
+174.  **ImplementRouter.java**: Returns the number of packets currently stored in the router (i.e., not yet forwarded) that have the specified destination and have timestamps in the inclusive range [startTime, endTime].
 
  
 
