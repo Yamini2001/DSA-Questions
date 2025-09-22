@@ -188,6 +188,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 173.  **DesignSpreadSheet.java**: A spreadsheet is a grid with 26 columns (labeled from 'A' to 'Z') and a given number of rows. Each cell in the spreadsheet can hold an integer value between 0 and 105.
 174.  **ImplementRouter.java**: Returns the number of packets currently stored in the router (i.e., not yet forwarded) that have the specified destination and have timestamps in the inclusive range [startTime, endTime].
 175.  **DesignMovieRentalSystem.java**:  implement a renting system that supports searching for, booking, and returning movies. The system should also support generating a report of the currently rented movies.
+176.  **GenerateParenthesis.java**: Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
 
  
 
