@@ -189,6 +189,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 174.  **ImplementRouter.java**: Returns the number of packets currently stored in the router (i.e., not yet forwarded) that have the specified destination and have timestamps in the inclusive range [startTime, endTime].
 175.  **DesignMovieRentalSystem.java**:  implement a renting system that supports searching for, booking, and returning movies. The system should also support generating a report of the currently rented movies.
 176.  **GenerateParenthesis.java**: Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
+177.  **CompareVersionNumbers.java**: To compare version strings, compare their revision values in left-to-right order. If one of the version strings has fewer revisions, treat the missing revision values as 0.
 
  
 
