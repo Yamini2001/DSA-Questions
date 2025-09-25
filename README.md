@@ -191,6 +191,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 176.  **GenerateParenthesis.java**: Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
 177.  **CompareVersionNumbers.java**: To compare version strings, compare their revision values in left-to-right order. If one of the version strings has fewer revisions, treat the missing revision values as 0.
 178.  **FractionToRecurringDecimal.java**: Given two integers representing the numerator and denominator of a fraction, return the fraction in string format.
+179.  **Triangle.java**: Given a triangle array, return the minimum path sum from top to bottom.
 
  
 
