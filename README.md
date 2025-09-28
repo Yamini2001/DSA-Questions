@@ -193,7 +193,8 @@ Feel free to explore the solutions, study the implementations, and use them as a
 178.  **FractionToRecurringDecimal.java**: Given two integers representing the numerator and denominator of a fraction, return the fraction in string format.
 179.  **Triangle.java**: Given a triangle array, return the minimum path sum from top to bottom.
 180.  **ValidTriangleNumber.java**: Given an integer array nums, return the number of triplets chosen from the array that can make triangles if we take them as side lengths of a triangle.
-181.  **LargestTriangleArea.java**: Given an array of points on the X-Y plane points where points[i] = [xi, yi], return the area of the largest triangle that can be formed by any three different points. 
+181.  **LargestTriangleArea.java**: Given an array of points on the X-Y plane points where points[i] = [xi, yi], return the area of the largest triangle that can be formed by any three different points.
+182.  **LargestPerimeterTriangle.java**: Given an integer array nums, return the largest perimeter of a triangle with a non-zero area, formed from three of these lengths.
 
  
 
