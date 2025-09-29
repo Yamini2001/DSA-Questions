@@ -195,6 +195,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 180.  **ValidTriangleNumber.java**: Given an integer array nums, return the number of triplets chosen from the array that can make triangles if we take them as side lengths of a triangle.
 181.  **LargestTriangleArea.java**: Given an array of points on the X-Y plane points where points[i] = [xi, yi], return the area of the largest triangle that can be formed by any three different points.
 182.  **LargestPerimeterTriangle.java**: Given an integer array nums, return the largest perimeter of a triangle with a non-zero area, formed from three of these lengths.
+183.  **MinimumScoreTriangulation.java**: Return the minimum possible score that you can achieve with some triangulation of the polygon.
 
  
 
