@@ -196,6 +196,10 @@ Feel free to explore the solutions, study the implementations, and use them as a
 181.  **LargestTriangleArea.java**: Given an array of points on the X-Y plane points where points[i] = [xi, yi], return the area of the largest triangle that can be formed by any three different points.
 182.  **LargestPerimeterTriangle.java**: Given an integer array nums, return the largest perimeter of a triangle with a non-zero area, formed from three of these lengths.
 183.  **MinimumScoreTriangulation.java**: Return the minimum possible score that you can achieve with some triangulation of the polygon.
+184.  **TriangularSumArray.java**: Return the triangular sum of nums.
+185.  **WaterBottles.java**: Given the two integers numBottles and numExchange, return the maximum number of water bottles you can drink.
+
+ 
 
  
 
