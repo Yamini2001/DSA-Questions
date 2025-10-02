@@ -198,6 +198,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 183.  **MinimumScoreTriangulation.java**: Return the minimum possible score that you can achieve with some triangulation of the polygon.
 184.  **TriangularSumArray.java**: Return the triangular sum of nums.
 185.  **WaterBottles.java**: Given the two integers numBottles and numExchange, return the maximum number of water bottles you can drink.
+186.  **WaterBottles2.java**: Return the maximum number of water bottles you can drink.
 
  
 
