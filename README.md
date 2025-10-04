@@ -200,6 +200,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 185.  **WaterBottles.java**: Given the two integers numBottles and numExchange, return the maximum number of water bottles you can drink.
 186.  **WaterBottles2.java**: Return the maximum number of water bottles you can drink.
 187.  **TrappingRainWater.java**: Given an m x n integer matrix heightMap representing the height of each unit cell in a 2D elevation map, return the volume of water it can trap after raining.
+188.  **ContainerWithMostWater.java**: Return the maximum amount of water a container can store.
 
  
 
