@@ -203,6 +203,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 188.  **ContainerWithMostWater.java**: Return the maximum amount of water a container can store.
 189.  **PacificAtlanticWaterFlow.java**: Return a 2D list of grid coordinates result where result[i] = [ri, ci] denotes that rain water can flow from cell (ri, ci) to both the Pacific and Atlantic oceans.
 190.  **SwimRisingWater.java**: Return the minimum time until you can reach the bottom right square (n - 1, n - 1) if you start at the top left square (0, 0).
+191.  **AvoidFloodInCity.java**: The country has an infinite number of lakes. Initially, all the lakes are empty, but when it rains over the nth lake, the nth lake becomes full of water. If it rains over a lake that is full of water, there will be a flood. Your goal is to avoid floods in any lake.
 
  
 
