@@ -205,6 +205,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 190.  **SwimRisingWater.java**: Return the minimum time until you can reach the bottom right square (n - 1, n - 1) if you start at the top left square (0, 0).
 191.  **AvoidFloodInCity.java**: The country has an infinite number of lakes. Initially, all the lakes are empty, but when it rains over the nth lake, the nth lake becomes full of water. If it rains over a lake that is full of water, there will be a flood. Your goal is to avoid floods in any lake.
 192.  **SuccessfulPairSpellAndPotion.java**: Return an integer array pairs of length n where pairs[i] is the number of potions that will form a successful pair with the ith spell.
+193.  **MinimumAmountToBrew.java**: Return the minimum amount of time required for the potions to be brewed properly.
 
  
 
