@@ -207,6 +207,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 192.  **SuccessfulPairSpellAndPotion.java**: Return an integer array pairs of length n where pairs[i] is the number of potions that will form a successful pair with the ith spell.
 193.  **MinimumAmountToBrew.java**: Return the minimum amount of time required for the potions to be brewed properly.
 194.  **TakingMaximumEnergy.java**:  Return the maximum possible energy you can gain.
+195.  **MaximumTotalSpellCasting.java**: Return the maximum possible total damage that a magician can cast.
 
  
 
