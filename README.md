@@ -208,6 +208,7 @@ Feel free to explore the solutions, study the implementations, and use them as a
 193.  **MinimumAmountToBrew.java**: Return the minimum amount of time required for the potions to be brewed properly.
 194.  **TakingMaximumEnergy.java**:  Return the maximum possible energy you can gain.
 195.  **MaximumTotalSpellCasting.java**: Return the maximum possible total damage that a magician can cast.
+196.  **SumOfArrayProduct.java**: Return the sum of the array products for all valid magical sequences.
 
  
 
