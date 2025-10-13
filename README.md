@@ -209,6 +209,8 @@ Feel free to explore the solutions, study the implementations, and use them as a
 194.  **TakingMaximumEnergy.java**:  Return the maximum possible energy you can gain.
 195.  **MaximumTotalSpellCasting.java**: Return the maximum possible total damage that a magician can cast.
 196.  **SumOfArrayProduct.java**: Return the sum of the array products for all valid magical sequences.
+197.  **ResultantArrayAfterRemovingAnagrams.java**: Return words after performing all operations. It can be shown that selecting the indices for each operation in any arbitrary order will lead to the same result.
+198.  
 
  
 
